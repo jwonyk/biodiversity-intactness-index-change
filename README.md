@@ -17,7 +17,7 @@ The goal is to provide an accessible, reproducible workflow for assessing biodiv
 ```bash
 biodiversity-intactness-index-change
 ├── README.md
-├── phoenix_bii_phoenix_subdivision.ipynb
+├── biodiversity-intactness-index-change.ipynb
 └── .gitignore
 ```
 
@@ -54,13 +54,10 @@ This repository was created for the course EDS 220 – Working with Environmenta
 
 ## References
 
-[1] F. Gassert, J. Mazzarello, and S. Hyde, _Global 100m Projections of Biodiversity Intactness for the Years 2017–2020_, Technical Whitepaper, Aug. 2022. Available: https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf. [Accessed: Nov. 22, 2024]
+[1] F. Gassert, J. Mazzarello, and S. Hyde, _Global 100m Projections of Biodiversity Intactness for the Years 2017–2020_, Technical Whitepaper, Aug. 2022. Available: https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf. [Accessed: Dec. 1, 2025]
 
-[2]
-Z. Levitt and J. Eng, _Where America's developed areas are growing: 'Way off into the horizon'_, The Washington Post, Aug. 2021. Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. [Accessed: Nov. 22, 2024]
+[2] Z. Levitt and J. Eng, _Where America's developed areas are growing: 'Way off into the horizon'_, The Washington Post, Aug. 2021. Available: https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/. [Accessed: Dec. 1, 2025]
 
-[3]
-Microsoft Planetary Computer, _Biodiversity Intactness Index (BII) Time Series, io-biodiversity Collection_, 2017–2020 [data file]. Available from the Microsoft Planetary Computer STAC catalog. [Accessed: Nov. 22, 2024]
+[3] Microsoft Planetary Computer, _Biodiversity Intactness Index (BII) Time Series, io-biodiversity Collection_, 2017–2020 [data file]. Available from the Microsoft Planetary Computer STAC catalog. [Accessed: Dec. 1, 2025]
 
-[4]
-U.S. Census Bureau, _County Subdivision Shapefiles, Arizona (TIGER/Line)_ [data file]. Available from the U.S. Census Bureau TIGER/Line shapefile download portal. [Accessed: Nov. 22, 2024]
+[4] U.S. Census Bureau, _County Subdivision Shapefiles, Arizona (TIGER/Line)_ [data file]. Available from the U.S. Census Bureau TIGER/Line shapefile download portal. [Accessed: Dec. 1, 2025]
