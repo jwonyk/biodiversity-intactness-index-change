@@ -1,6 +1,9 @@
 # Mac Setup
 .DS_Store
 
+# Output Directory
+output/
+
 # Data Directory
 data/
 
