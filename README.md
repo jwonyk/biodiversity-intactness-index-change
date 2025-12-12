@@ -15,7 +15,7 @@ The goal is to provide an accessible, reproducible workflow for assessing biodiv
 
 ## Final Output
 
-REPLACE HERE FOR OUTPUT
+<img width="794" height="773" alt="final-map" src="https://github.com/user-attachments/assets/1016b2f3-f5a8-400d-88b6-3fb462ac2a52" />
 
 ## Repository Structure
 
